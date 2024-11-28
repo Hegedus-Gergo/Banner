@@ -1,0 +1,14 @@
+K:\HGY\C#_repo\Banner\Banner\bin\Debug\net8.0\Banner.exe
+K:\HGY\C#_repo\Banner\Banner\bin\Debug\net8.0\Banner.deps.json
+K:\HGY\C#_repo\Banner\Banner\bin\Debug\net8.0\Banner.runtimeconfig.json
+K:\HGY\C#_repo\Banner\Banner\bin\Debug\net8.0\Banner.dll
+K:\HGY\C#_repo\Banner\Banner\bin\Debug\net8.0\Banner.pdb
+K:\HGY\C#_repo\Banner\Banner\obj\Debug\net8.0\Banner.GeneratedMSBuildEditorConfig.editorconfig
+K:\HGY\C#_repo\Banner\Banner\obj\Debug\net8.0\Banner.AssemblyInfoInputs.cache
+K:\HGY\C#_repo\Banner\Banner\obj\Debug\net8.0\Banner.AssemblyInfo.cs
+K:\HGY\C#_repo\Banner\Banner\obj\Debug\net8.0\Banner.csproj.CoreCompileInputs.cache
+K:\HGY\C#_repo\Banner\Banner\obj\Debug\net8.0\Banner.dll
+K:\HGY\C#_repo\Banner\Banner\obj\Debug\net8.0\refint\Banner.dll
+K:\HGY\C#_repo\Banner\Banner\obj\Debug\net8.0\Banner.pdb
+K:\HGY\C#_repo\Banner\Banner\obj\Debug\net8.0\Banner.genruntimeconfig.cache
+K:\HGY\C#_repo\Banner\Banner\obj\Debug\net8.0\ref\Banner.dll
